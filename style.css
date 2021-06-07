@@ -1,0 +1,32 @@
+html, body {
+    
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #e73a3a;
+    text-align: center;
+    height: 100%;
+    margin: 0;
+       
+}   
+    
+   body {  
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: url('../img/wow.png') bottom center no-repeat;
+      background-size: cover;
+      font-size: 1em;
+
+    }
+    
+  
+    .centered { 
+        padding: .125em; 3.125em;
+        font-family:'Montserrat', sans-serif; 
+        background: #f16059; 
+      }
+       
+      h1 {
+        font-size: 2em; 
+        color: #fff; 
+        text-align: center;
+      }
